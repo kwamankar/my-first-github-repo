@@ -1,2 +1,3 @@
 Hello Git
 This is dev branch change
+This is a new feature added
